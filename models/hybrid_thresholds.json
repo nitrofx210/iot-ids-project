@@ -1,0 +1,6 @@
+{
+  "rf_confidence_threshold": 0.7,
+  "if_anomaly_threshold": 0.6,
+  "if_score_min": -0.11419082926653823,
+  "if_score_max": 0.29090959866738625
+}
