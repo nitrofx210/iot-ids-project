@@ -1,6 +1,6 @@
 # ML-Based Intrusion Detection System for IoT Networks
 
-**Student:** Aryan Thapa | AM.SC.P2CSN25005  
+**Student:** Aryan Thapa | AM.SC.P2CSN25003  
 **Program:** M.Tech Cybersecurity and Systems of Networks  
 **Institution:** Amrita School of Computing, Amritapuri  
 **Duration:** 12 Weeks (July – September 2026)
